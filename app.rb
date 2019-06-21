@@ -1,0 +1,3 @@
+type('homer simpson')
+print
+
